@@ -1,0 +1,119 @@
+﻿<Window x:Class="MovieCatSQL1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MovieCatSQL1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="*"/>
+            <RowDefinition Height ="6*"/>
+            <RowDefinition Height ="*"/>
+            <RowDefinition Height ="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="*"/>
+            <ColumnDefinition Width ="75*"/>
+            <ColumnDefinition Width ="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal"     
+                    Grid.Row="0"
+                    Grid.Column="1">
+            <TextBox 
+            Width="230"
+            Height="20"
+            Margin="5" />
+            <Button
+            Width="75"
+            Height="20"
+            Margin="5"
+            Content="Search">
+            </Button>
+
+        </StackPanel>
+
+        <DataGrid
+            x:Name="dataGrid"
+            Grid.Row="1"
+            Grid.Column="1"
+            ColumnWidth="122"   
+            ItemsSource="{Binding Movies}"
+            >
+            
+                               
+            
+           
+                   
+        </DataGrid>
+        <StackPanel
+            Orientation="Horizontal"
+            HorizontalAlignment="Right"
+            Grid.Row="2"
+            Grid.Column="1">
+            <Button
+            Content="Add" 
+           Name="Adding"
+            Width="75"
+            Height="20"
+            Margin="5"
+            Click="Adding_Click">
+
+            </Button>
+
+            <Button
+            Content="Edit"
+           Name="Editing"
+            Width="75"
+            Height="20"
+            Margin="5"
+            Click="Editing_Click">
+
+            </Button>
+
+            <Button
+            Content="Delite"
+           Name="Deliting"
+            Width="75"
+            Height="20"
+            Margin="5"
+            Click="Deliting_Click">
+
+            </Button>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+             HorizontalAlignment="Left"
+                    Grid.Row="3"
+               Grid.Column="1">
+
+            <Button x:Name="Save"
+                Content="Save"
+                Width="75"
+                Height="20"
+                Margin="5" Click="Save_Click">
+
+            </Button>
+
+        </StackPanel>
+
+        <StackPanel 
+            Orientation="Horizontal"
+            HorizontalAlignment="Right"
+            Grid.Row="3"
+            Grid.Column="1">
+
+            <Button
+            Content="Exit"
+           Name="Exiting"
+            Width="75"
+            Height="20"
+            Margin="5"
+            Click="Exiting_Click">
+            </Button>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

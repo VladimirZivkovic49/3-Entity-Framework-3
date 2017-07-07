@@ -1,0 +1,141 @@
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\App.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\DeliteWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\DeliteWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+F:\Smart rad u školi\170325\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+F:\Smart rad u školi\170325\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+F:\Smart rad u školi\170325\Entity vezbanja\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\App.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.dll
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.xml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.Migrations.Initial.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\App.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\AddWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\EditWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MainWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.Migrations.Initial.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\App.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\AddWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\EditWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MainWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.Migrations.Initial.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\C# vežbanja\Entity vezbanja\170325sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\App.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.dll
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.xml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\AddWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\EditWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MainWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.Migrations.Initial.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\#vezbanja\170329sm\MovieCatSQL1 - Copy\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\MovieCatSQL1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\EntityFramework.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\EntityFramework.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.csprojResolveAssemblyReference.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\AddWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\EditWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MainWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\App.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1_MarkupCompile.lref
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\AddWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\EditWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MainWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.g.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.Migrations.Initial.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.Properties.Resources.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.csproj.GenerateResource.Cache
+F:\Programiranje\Odbir\3 Entity Framework projekat\MovieCatSQL1 -Search neradi\MovieCatSQL1\bin\Debug\MovieCatSQL1.exe.config
+F:\Programiranje\Odbir\3 Entity Framework projekat\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.exe
+F:\Programiranje\Odbir\3 Entity Framework projekat\MovieCatSQL1 -Search neradi\MovieCatSQL1\obj\Debug\MovieCatSQL1.pdb
